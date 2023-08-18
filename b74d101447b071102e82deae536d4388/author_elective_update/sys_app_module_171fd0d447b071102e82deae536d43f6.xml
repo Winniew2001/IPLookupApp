@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Kinda sussy</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>IPLookup</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 11:58:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>171fd0d447b071102e82deae536d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPLookup</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_1102654_iplookup">b74d101447b071102e82deae536d4388</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">b74d101447b071102e82deae536d4388</sys_scope>
+        <sys_update_name>sys_app_module_171fd0d447b071102e82deae536d43f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 11:58:46</sys_updated_on>
+        <timeline_page/>
+        <title>IPLookup</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Henloe</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">b74d101447b071102e82deae536d4388</application>
+        <file_path/>
+        <instance_id>dc95dd52db1c370091232f17d49619b1</instance_id>
+        <instance_name>dev76533</instance_name>
+        <name>sys_app_module_171fd0d447b071102e82deae536d43f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint>Kinda sussy</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>IPLookup</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 11:58:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>171fd0d447b071102e82deae536d43f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IPLookup</sys_name><sys_overrides/><sys_package display_value="IPLookup" source="x_1102654_iplookup">b74d101447b071102e82deae536d4388</sys_package><sys_policy/><sys_scope display_value="IPLookup">b74d101447b071102e82deae536d4388</sys_scope><sys_update_name>sys_app_module_171fd0d447b071102e82deae536d43f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 11:58:46</sys_updated_on><timeline_page/><title>IPLookup</title><uncancelable>false</uncancelable><view_name/><window_name>Henloe</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>-300413884</payload_hash>
+        <record_name>IPLookup</record_name>
+        <reverted_from/>
+        <source>7b4d101447b071102e82deae536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 11:59:22</sys_created_on>
+        <sys_id>076fd8d447b071102e82deae536d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a035d54ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 11:59:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4a4f909413b07110352d362be4abe514</update_guid>
+        <update_guid_history>4a4f909413b07110352d362be4abe514:-726508835,4a4f909413b07110352d362be4abe514:-726508835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="IPLookup">347f9cd447b071102e82deae536d430b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 11:59:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>78a1298082e8438aaa30d19999ded129</sys_id>
+        <sys_metadata>171fd0d447b071102e82deae536d43f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPLookup</sys_name>
+        <sys_package display_value="IPLookup" source="x_1102654_iplookup">b74d101447b071102e82deae536d4388</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">b74d101447b071102e82deae536d4388</sys_scope>
+        <sys_scope_delete display_value="">0010331747f44ebc8d40f8b93f3829a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_171fd0d447b071102e82deae536d43f6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_171fd0d447b071102e82deae536d43f6">076fd8d447b071102e82deae536d43dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 11:59:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
